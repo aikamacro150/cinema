@@ -8,7 +8,10 @@ import dao.DaoCinema;
 import javax.swing.JOptionPane;
 import modelo.Cinema;
 import tela.manutencao.ManutencaoCinema;
-
+import java.util.List;
+import java.util.Vector;
+import javax.swing.JTable;
+import javax.swing.table.DefaultTableModel;
 /**
  *
  * @author Administrador
